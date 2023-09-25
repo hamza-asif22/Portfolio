@@ -1,0 +1,83 @@
+.main{
+    border: 2px;
+    height: 600px;
+    width: 375px;
+}
+.container{
+    border: 1px;
+    height: auto;
+    width: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: baseline;
+}
+
+.logo{
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    border: 2px;
+    font-family: sans-serif;
+    font-size: 25px;
+    color: #6070ff;
+    font-weight: 800;
+}
+
+.menu-style{
+    padding-right: 10px;
+    padding-top: 2px;
+    border: 2px;
+    width: 70px;
+    height: 30px;
+    text-align: center;
+    justify-content: center;
+
+}
+
+.greeting{
+    padding-top: 150px;
+    border: 2px;
+    width: 327px;
+    height: auto;
+    padding-left: 24px;
+    font-family: sans-serif;
+    font-size: 40px;
+    font-weight: 800;
+    text-align: left;
+}
+
+.para{
+    padding-top: 6px;
+    border: 2px;
+    width: 327px;
+    height: auto;
+    padding-left: 24px;
+    font-family: sans-serif;
+    font-size: 16px;
+    text-align: left;
+    line-height: 24px;
+
+}
+
+.text{
+    padding-top: 10px;
+    border: 2px;
+    width: 327px;
+    height: auto;
+    padding-left: 24px;
+    color: #7f8cff;
+    font-family: sans-serif;
+    font-size: 16px;
+    text-align: left;
+    line-height: 24px;
+}
+
+.social{
+    border: 2px;
+    padding-top:10px;
+    width: 327px;
+    height: auto;
+    padding-left: 24px;
+
+}
