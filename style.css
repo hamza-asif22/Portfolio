@@ -29,7 +29,7 @@
 }
 
 .headline {
-    background-image: url(./icons/header-mobile.png);
+    background-image: url(header-shapes\ mobile.png);
     width: auto;
     height: auto;
     background-repeat: no-repeat;
@@ -309,7 +309,9 @@ color: #7A869A;
 }
 
 
+
 .contact-body {
+    background: url(contact-background-2.png);
     background-color: #6070ff;
     border-radius: 80px 8px 8px 8px;
     width: auto;
@@ -334,7 +336,7 @@ color: #7A869A;
   }
   
   .form-text {
-    width: 40%;
+    width: 80%;
     font-weight: 400;
     font-family: 'Poppins', sans-serif;
     color: #ebebff;
@@ -374,12 +376,12 @@ color: #7A869A;
   input[type="text"],
   input[type="email"],
   textarea {
-    width: 100%;
-    padding: 14px;
+    width: 90%;
+    padding: 17px;
     
     margin-bottom: 15px;
     border: 1px solid rgb(204, 204, 204);
-    border-radius: 4px;
+    border-radius: 6px;
     font-family: 'Poppins', sans-serif;
     font-weight: 400;
     font-size: 16px;
@@ -453,7 +455,7 @@ color: #7A869A;
       }
     
       .headline {
-        background-image: url(./icons/Desktop/Header-desktop.png);
+        background-image: url(Header-desktop.png);
         background-size: 100% 100%;
         background-repeat: no-repeat;
         height: 80vh;
